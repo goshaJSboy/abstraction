@@ -1,3 +1,4 @@
+package FIRST;
 public class CreditAccount extends Account {
     private long creditLimit = 10_000;
 

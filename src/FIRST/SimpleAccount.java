@@ -1,3 +1,4 @@
+package FIRST;
 public class SimpleAccount extends Account {
 @Override
 public boolean pay(long amount){
